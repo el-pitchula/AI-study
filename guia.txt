@@ -1,0 +1,65 @@
+requisitos:
+	- lógica de programação e Python
+	(estruturas condicionais e de repetição)
+	- noções sobre data science
+	
+área do conhecimento responsável: ciência de dados
+
+base do estudo sobre IA:
+	- algoritmos (de otimização principalmente)
+	- lógica difusa (fuzzy)
+	- machine learning
+	- classificações:
+		- Naive Bayes
+		- árvore de decisão
+		- Orange
+		- kNN
+	- regressão
+	- agrupamento
+	- associação
+	- pré-processamento
+	- séries temporais
+
+compreender os tipos de IA:
+	- ML, DL e RL
+	- processamento de linguagem natural
+  **- visão computacional**
+   (interpretar/analizar imagens/dados visuais)
+	- robótica inteligente
+	
+sobre a visão computacional:
+	- ferramentas: Python e OpenCV
+	- conteúdo:
+		- coordenadas e manipulação de px
+		- processamento de imagens
+	  **- identificação e rastreamento (vídeo) de obj**
+	- algumas bibliotecas de apoio:
+		- OpenCV
+		- Numpy, Scypy, Matplotlib
+		- PyTesseract
+	
+sugestão de estudo:
+	- intercalar estudo referente ao objetivo e a base
+	(faça esse tipo de estudo complementar pra otimizar tempo)
+	- explorar bibliotecas mais expecíficas
+	- pesquise por artigos e repositórios git próximos do seu objetivo
+	- recorra mais as documentações oficiais da bibliotecas utilizadas e do próprio python
+	- evite ter dependência do chatGPT e outras IAs, o StarkOverFlow e outros fóruns como o Reddit já
+	tem a solução completa e detalhada do seu problema principalmente se for em relação a bug ou o 
+	software em si (boa parte dos problemas já são conhecidos pelas comunidades)
+
+links (estudo):
+	- https://nca.ufma.br/~geraldo/vc/1.introducao.pdf
+	
+links git:
+	- tópico de projetos com visão computacional: https://github.com/topics/visao-computacional
+	- repositório de curso básico de IA: https://github.com/VitoriaCarvalho/VisaoComputacional
+	- repositório com exemplos de trabalhos utilizando visão computacional (MIT): https://github.com/VitoriaCarvalho/VisaoComputacional
+	- repositório com análise de características extraídas de imagens (IA saúde)
+		indica se a massa mamária é maligna ou benigna: https://github.com/RafaelGallo/AI_Saude
+	- repositório pra detectar cor em imagens: https://github.com/MariaEduardaDeAzevedo/classificador-de-cores
+
+links artigo:
+	- detecção de tumor cerebral: https://repositorio.ufu.br/bitstream/123456789/37641/1/DeteccaoTumorCerebral.pdf
+	- estimativa da idade óssea por radiografia: https://www.scielo.br/j/rb/a/pDQRNvzWMWng4R7jJqPm5XK/?lang=pt
+	- IA para radiologias de emergência:https://www.mdpi.com/2075-4418/12/12/3223
