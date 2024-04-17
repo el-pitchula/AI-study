@@ -59,8 +59,6 @@ links git:
 	- tópico de projetos com visão computacional: https://github.com/topics/visao-computacional
 	- repositório de curso básico de IA: https://github.com/VitoriaCarvalho/VisaoComputacional
 	- repositório com exemplos de trabalhos utilizando visão computacional (MIT): https://github.com/VitoriaCarvalho/VisaoComputacional
-	- repositório com análise de características extraídas de imagens (IA saúde)
-		indica se a massa mamária é maligna ou benigna: https://github.com/RafaelGallo/AI_Saude
 	- repositório pra detectar cor em imagens: https://github.com/MariaEduardaDeAzevedo/classificador-de-cores
 
 links artigo:
@@ -73,4 +71,3 @@ links documentação lib:
 	- OpenCV: https://docs.opencv.org/4.x/index.html
 		- cascade: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
 		- cascade .xlm files: https://github.com/opencv/opencv/tree/master/data/haarcascades
-	- 
