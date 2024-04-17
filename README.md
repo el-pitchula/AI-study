@@ -1,4 +1,4 @@
-<h1 align="center">IA study</h1>
+<h1 align="center">AI study</h1>
 
 
 <div align="center">
