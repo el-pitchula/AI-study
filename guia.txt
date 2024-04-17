@@ -72,4 +72,5 @@ links documentação lib:
 	- Python: https://docs.python.org/3/
 	- OpenCV: https://docs.opencv.org/4.x/index.html
 		- cascade: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+		- cascade .xlm files: https://github.com/opencv/opencv/tree/master/data/haarcascades
 	- 
