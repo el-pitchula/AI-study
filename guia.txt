@@ -50,6 +50,10 @@ sugestão de estudo:
 
 links (estudo):
 	- https://nca.ufma.br/~geraldo/vc/1.introducao.pdf
+	- detectar objetos em imagens com o Visão Personalizada de IA do Azure: https://learn.microsoft.com/pt-br/training/modules/detect-objects-images-custom-vision/
+	- vídeo para ajudar a entender: https://www.youtube.com/watch?v=_LHebVofdwo
+	- para reconhecer imagens: https://www.youtube.com/watch?v=4RO-3QllHZk
+	- curso de OpenCV: https://www.youtube.com/watch?v=JiC9iBNRWdQ&list=PLsyobOqUhkthjvmA_s7tTjb7V2EiwYYGC
 	
 links git:
 	- tópico de projetos com visão computacional: https://github.com/topics/visao-computacional
@@ -63,3 +67,9 @@ links artigo:
 	- detecção de tumor cerebral: https://repositorio.ufu.br/bitstream/123456789/37641/1/DeteccaoTumorCerebral.pdf
 	- estimativa da idade óssea por radiografia: https://www.scielo.br/j/rb/a/pDQRNvzWMWng4R7jJqPm5XK/?lang=pt
 	- IA para radiologias de emergência:https://www.mdpi.com/2075-4418/12/12/3223
+
+links documentação lib:
+	- Python: https://docs.python.org/3/
+	- OpenCV: https://docs.opencv.org/4.x/index.html
+		- cascade: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+	- 
