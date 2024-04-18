@@ -43,10 +43,13 @@ Ciência de Dados.
 - Defina claramente os problemas ortopédicos a serem identificados nas radiografias.
 - Aprofunde-se na lógica difusa e sua aplicação em sistemas de classificação.
 - Amplie a seção sobre visão computacional, incluindo detecção de padrões e segmentação de imagens.
-- Inclua bibliotecas específicas de Machine Learning como TensorFlow e Keras.
-- Adicione exemplos práticos de aplicação dos algoritmos e técnicas.
-- Considere a integração com outras áreas da saúde para ampliar a compreensão dos desafios.
-- Destaque a importância da validação e avaliação dos modelos de IA desenvolvidos.
+- Veja sobre bibliotecas específicas de Machine Learning como TensorFlow e Keras também.
+- Teste algoritmos, técnicas e bancos de dados (em áreas de trabalho diferentes) antes de implementar.
+- Intercale o estudo referente ao objetivo e à base (faça esse tipo de estudo complementar para otimizar o tempo).
+- Explore bibliotecas mais específicas.
+- Pesquise por artigos e repositórios git próximos do seu objetivo.
+- Recorra mais às documentações oficiais das bibliotecas utilizadas e do próprio Python.
+- Evite depender do ChatGPT e de outras IAs; o Stack Overflow e outros fóruns como o Reddit já têm a solução completa e detalhada do seu problema, principalmente se for em relação a bugs ou ao software em si (boa parte dos problemas já são conhecidos pelas comunidades).
 
 ## Links para Estudo:
 - [Introdução à Visão Computacional (PDF)](https://nca.ufma.br/~geraldo/vc/1.introducao.pdf)
