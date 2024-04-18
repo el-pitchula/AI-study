@@ -71,3 +71,74 @@ Ciência de Dados.
 - [OpenCV](https://docs.opencv.org/4.x/index.html)
   - [Cascade Classifier](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
   - [Arquivos .xml para Cascade](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+
+
+# Guia básico de Inteligência Artificial
+
+## 1. Conceitos Fundamentais
+
+- **Inteligência Artificial (IA):** Campo da ciência da computação que busca criar sistemas capazes de realizar tarefas que normalmente exigiriam inteligência humana.
+  
+- **Machine Learning (Aprendizado de Máquina):** Subcampo da IA que se concentra em desenvolver algoritmos e técnicas que permitem aos computadores aprender a partir de dados.
+
+- **Deep Learning (Aprendizado Profundo):** Técnica de Machine Learning que utiliza redes neurais profundas para aprender padrões complexos nos dados.
+
+## 2. Linguagem de Programação
+
+- **Python:** Linguagem de programação amplamente utilizada em IA devido à sua simplicidade, grande variedade de bibliotecas e comunidade ativa.
+
+## 3. Bibliotecas Importantes
+
+- **NumPy:** Biblioteca fundamental para computação numérica em Python, amplamente utilizada em manipulação de dados.
+
+- **Pandas:** Biblioteca para análise de dados que oferece estruturas de dados flexíveis e eficientes.
+
+- **Scikit-Learn:** Biblioteca que fornece uma variedade de algoritmos de Machine Learning prontos para uso, além de ferramentas para pré-processamento de dados.
+
+- **TensorFlow e PyTorch:** Duas das principais bibliotecas para implementar modelos de Deep Learning.
+
+## 4. Conceitos de Machine Learning
+
+- **Dados de Treinamento:** Conjunto de dados usados para treinar um modelo de Machine Learning.
+
+- **Algoritmos de Classificação:** Usados para prever a classe ou categoria a que um exemplo pertence.
+
+- **Algoritmos de Regressão:** Usados para prever valores numéricos com base em dados de entrada.
+
+## 5. Fluxo de Trabalho Básico
+
+1. **Entendimento do Problema:** Definir claramente o problema que se deseja resolver com IA.
+
+2. **Coleta e Preparação de Dados:** Adquirir dados relevantes e prepará-los para análise e treinamento.
+
+3. **Escolha do Modelo:** Selecionar o algoritmo ou modelo de Machine Learning adequado para o problema.
+
+4. **Treinamento do Modelo:** Utilizar os dados de treinamento para ajustar o modelo aos padrões nos dados.
+
+5. **Avaliação do Modelo:** Avaliar o desempenho do modelo utilizando métricas apropriadas.
+
+6. **Implantação e Monitoramento:** Colocar o modelo em produção e monitorar seu desempenho ao longo do tempo.
+
+## 6. Recursos de Aprendizagem
+
+- **Cursos Online:** Plataformas como Coursera, Udacity e edX oferecem cursos introdutórios em IA e Machine Learning.
+
+- **Livros:** "Introduction to Machine Learning with Python" de Andreas C. Müller e Sarah Guido é um excelente recurso para iniciantes.
+
+- **Comunidades Online:** Participar de comunidades como o Stack Overflow, GitHub e fóruns dedicados a IA pode ser útil para obter suporte e orientação.
+
+## 7. Projetos Práticos
+
+- **Classificação de Imagens:** Implementar um modelo de classificação de imagens utilizando TensorFlow ou PyTorch.
+
+- **Previsão de Vendas:** Desenvolver um modelo de regressão para prever vendas com base em dados históricos.
+
+- **Análise de Sentimentos:** Criar um modelo de análise de sentimentos para classificar opiniões em positivas, negativas ou neutras.
+
+## 8. Desafios Comuns
+
+- **Overfitting:** Quando um modelo se ajusta demais aos dados de treinamento e não generaliza bem para novos dados.
+
+- **Underfitting:** Quando um modelo é muito simples para capturar os padrões nos dados de treinamento.
+
+- **Seleção de Características:** Escolher as características certas dos dados é crucial para o desempenho do modelo.
