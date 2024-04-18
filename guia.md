@@ -1,4 +1,4 @@
-## Guia para Projeto de Classificação de Radiografias com Inteligência Artificial
+## Guia de estudo para projetos com Inteligência Artificial
 
 ### Requisitos Necessários:
 - Conhecimento em lógica de programação e Python, incluindo estruturas condicionais e de repetição.
