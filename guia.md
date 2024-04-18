@@ -76,18 +76,14 @@ Ciência de Dados.
 # Guia básico de Inteligência Artificial
 
 ## 1. Conceitos Fundamentais
-
-- **Inteligência Artificial (IA):** Campo da ciência da computação que busca criar sistemas capazes de realizar tarefas que normalmente exigiriam inteligência humana.
   
 - **Machine Learning (Aprendizado de Máquina):** Subcampo da IA que se concentra em desenvolver algoritmos e técnicas que permitem aos computadores aprender a partir de dados.
 
 - **Deep Learning (Aprendizado Profundo):** Técnica de Machine Learning que utiliza redes neurais profundas para aprender padrões complexos nos dados.
 
-## 2. Linguagem de Programação
+- **Reinforcement Learning (Aprendizado por Reforço):** Subcampo da IA em que os agentes aprendem a partir de interações com o ambiente, recebendo feedbacks de recompensa ou penalidade (na robótica por exemplo).
 
-- **Python:** Linguagem de programação amplamente utilizada em IA devido à sua simplicidade, grande variedade de bibliotecas e comunidade ativa.
-
-## 3. Bibliotecas Importantes
+## 2. Bibliotecas Importantes
 
 - **NumPy:** Biblioteca fundamental para computação numérica em Python, amplamente utilizada em manipulação de dados.
 
@@ -97,7 +93,9 @@ Ciência de Dados.
 
 - **TensorFlow e PyTorch:** Duas das principais bibliotecas para implementar modelos de Deep Learning.
 
-## 4. Conceitos de Machine Learning
+- **OpenCV:** Biblioteca amplamente utilizada para processamento de imagens e visão computacional.
+
+## 3. Conceitos de Machine Learning
 
 - **Dados de Treinamento:** Conjunto de dados usados para treinar um modelo de Machine Learning.
 
@@ -105,7 +103,7 @@ Ciência de Dados.
 
 - **Algoritmos de Regressão:** Usados para prever valores numéricos com base em dados de entrada.
 
-## 5. Fluxo de Trabalho Básico
+## 4. Fluxo de Trabalho Básico
 
 1. **Entendimento do Problema:** Definir claramente o problema que se deseja resolver com IA.
 
@@ -119,23 +117,11 @@ Ciência de Dados.
 
 6. **Implantação e Monitoramento:** Colocar o modelo em produção e monitorar seu desempenho ao longo do tempo.
 
-## 6. Recursos de Aprendizagem
-
-- **Cursos Online:** Plataformas como Coursera, Udacity e edX oferecem cursos introdutórios em IA e Machine Learning.
-
-- **Livros:** "Introduction to Machine Learning with Python" de Andreas C. Müller e Sarah Guido é um excelente recurso para iniciantes.
-
-- **Comunidades Online:** Participar de comunidades como o Stack Overflow, GitHub e fóruns dedicados a IA pode ser útil para obter suporte e orientação.
-
-## 7. Projetos Práticos
+## 5. Projetos Práticos
 
 - **Classificação de Imagens:** Implementar um modelo de classificação de imagens utilizando TensorFlow ou PyTorch.
 
-- **Previsão de Vendas:** Desenvolver um modelo de regressão para prever vendas com base em dados históricos.
-
-- **Análise de Sentimentos:** Criar um modelo de análise de sentimentos para classificar opiniões em positivas, negativas ou neutras.
-
-## 8. Desafios Comuns
+## 6. Desafios Comuns
 
 - **Overfitting:** Quando um modelo se ajusta demais aos dados de treinamento e não generaliza bem para novos dados.
 
