@@ -88,15 +88,15 @@ Ciência de Dados.
 
 ## 2. Bibliotecas Importantes
 
-- **NumPy:** Biblioteca fundamental para computação numérica em Python, amplamente utilizada em manipulação de dados.
+- **NumPy:** Fundamental para computação numérica em Python, utilizada em manipulação de dados.
 
-- **Pandas:** Biblioteca para análise de dados que oferece estruturas de dados flexíveis e eficientes.
+- **Pandas:** Para análise de dados que oferece estruturas de dados flexíveis.
 
-- **Scikit-Learn:** Biblioteca que fornece uma variedade de algoritmos de Machine Learning prontos para uso, além de ferramentas para pré-processamento de dados.
+- **Scikit-Learn:** Fornece uma variedade de algoritmos de Machine Learning prontos para uso, além de ferramentas para pré-processamento de dados.
 
-- **TensorFlow e PyTorch:** Duas das principais bibliotecas para implementar modelos de Deep Learning.
+- **TensorFlow e PyTorch:** Para implementar modelos de Deep Learning.
 
-- **OpenCV:** Biblioteca amplamente utilizada para processamento de imagens e visão computacional.
+- **OpenCV:** Utilizada para processamento de imagens e visão computacional.
 
 ## 3. Conceitos de Machine Learning
 
