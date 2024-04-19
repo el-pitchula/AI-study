@@ -1,0 +1,7 @@
+Tensorflow 2.12.1
+
+PS python -m venv <nome>
+PS \<nome>\Scripts\activate
+<nome> python -m pip install tensorflow==2.12.1
+<nome> python -m pip install ipykernel
+<nome> ipython kernel install --user --name=<nome>

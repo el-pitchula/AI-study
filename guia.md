@@ -40,7 +40,7 @@ Ciência de Dados.
   - PyTesseract.
 
 ## Sugestões para Estudo:
-- Defina claramente os problemas ortopédicos a serem identificados nas radiografias.
+- Defina claramente os problemas a serem identificados nas radiografias.
 - Aprofunde-se na lógica difusa e sua aplicação em sistemas de classificação.
 - Amplie a seção sobre visão computacional, incluindo detecção de padrões e segmentação de imagens.
 - Veja sobre bibliotecas específicas de Machine Learning como TensorFlow e Keras também.
