@@ -11,8 +11,8 @@
 
 - Optimization: é para a melhoria de resultados e especialmente dentre varias formas de resolver.
 
-- Learning: o aprendizado da máquina é baseado em aprender com dados e experiência direcionados a um objetivo e executarem tarefas de forma cada vez melhores.
+- Learning: o aprendizado da máquina é baseado em aprender com dados e experiências, tudo direcionados ao objetivo de executarem tarefas de forma cada vez melhores.
 
-- Neural Networks
+- Neural Networks: se baseia na estrutura que um cérebro humano funciona, literalmente análogas as redes neurais humanas.
 
-- Language
+- Language: baseado nas linguagens humanas, em como normalmente nos comunicamos.
