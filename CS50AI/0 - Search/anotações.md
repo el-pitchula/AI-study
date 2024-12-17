@@ -15,4 +15,6 @@
 
 - Neural Networks: se baseia na estrutura que um cérebro humano funciona, literalmente análogas as redes neurais humanas.
 
-- Language: baseado nas linguagens humanas, em como normalmente nos comunicamos.
+- Language: baseado nas linguagens humanas, em como normalmente nos comunicamos, a linguagem natural.
+
+
