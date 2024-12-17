@@ -17,4 +17,6 @@
 
 - Language: baseado nas linguagens humanas, em como normalmente nos comunicamos, a linguagem natural.
 
+### Search
 
+- problema de pesquisa:
