@@ -21,6 +21,8 @@
 
 ### problema de pesquisa:
 
+- agent: uma entidade que percebe seu ambiente e age nele de alguma forma (pode ser um carro que está tentando chegar a um destino).
+
 - initial state
 - actions
 - transition model
