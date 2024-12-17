@@ -19,4 +19,14 @@
 
 ## Search
 
-- problema de pesquisa:
+### problema de pesquisa:
+
+- initial state
+- actions
+- transition model
+- goal test
+- path cost function 
+
+### soluções
+
+- optimal solution
