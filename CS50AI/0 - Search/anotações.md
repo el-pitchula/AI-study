@@ -3,15 +3,15 @@
 
 
 ### Intro
-- Search
+- Search: se baseia em fazer pesquisas e definir os objetivos da construção da IA, como solução de problemas, automatização, otimização... de formas mais eficazes e objetivas.
 
-- Knowledge
+- Knowledge: capacidade de conhecer informação e ser capaz de usa-la
 
 - Uncertainty
 
 - Optimization
 
-- Learning
+- Learnings
 
 - Neural Networks
 
