@@ -24,7 +24,7 @@
 - agent: uma entidade que percebe seu ambiente e age nele de alguma forma (pode ser um carro que está tentando chegar a um destino).
 - state: definir a ideia de estado se baseia em compreende-lo como uma configuração do agente em seu ambiente.
 
-- initial state
+- initial state: ponto de partida pro algoritmo de busca, a posição inicial de seja lá qual for o objeto.
 - actions
 - transition model
 - goal test
