@@ -28,7 +28,7 @@
 - actions
 - transition model
 - goal test
-- path cost function 
+- path cost function
 
 ### soluções
 
